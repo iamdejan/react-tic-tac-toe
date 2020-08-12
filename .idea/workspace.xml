@@ -41,7 +41,7 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -102,21 +102,21 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1597220371006" />
-    <state width="1259" height="211" key="GridCell.Tab.0.bottom" timestamp="1597221648498">
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom" timestamp="1597221738695">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597221648498" />
-    <state width="1259" height="211" key="GridCell.Tab.0.center" timestamp="1597221648496">
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597221738695" />
+    <state width="1259" height="211" key="GridCell.Tab.0.center" timestamp="1597221738693">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597221648496" />
-    <state width="1259" height="211" key="GridCell.Tab.0.left" timestamp="1597221648495">
+    <state width="1259" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597221738693" />
+    <state width="1259" height="211" key="GridCell.Tab.0.left" timestamp="1597221738691">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597221648495" />
-    <state width="1259" height="211" key="GridCell.Tab.0.right" timestamp="1597221648497">
+    <state width="1259" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597221738691" />
+    <state width="1259" height="211" key="GridCell.Tab.0.right" timestamp="1597221738694">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597221648497" />
+    <state width="1259" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597221738694" />
   </component>
 </project>
